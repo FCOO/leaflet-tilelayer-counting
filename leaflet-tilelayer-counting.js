@@ -1,7 +1,7 @@
 /**
  * A Leaflet TileLayer which keeps track of how many times it has been added
- * and removed. It is only added if no other instances of it are already
- * added and it is not removed until the last instance of it has been removed.
+ * and removed. It is only added to the map once and is not removed until
+ * it has been removed as many times as it has been added.
  */
 L.TileLayer.Counting = L.TileLayer.extend({
         initialize: function (url, options) {
