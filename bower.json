@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "Leaflet": "https://github.com/jblarsen/Leaflet.git#master"
+    "Leaflet": "https://github.com/jblarsen/Leaflet.git#master-dist"
   }
 }
