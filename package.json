@@ -1,13 +1,13 @@
 {
-  "name"		: "leaflet-tilelayer-counting",
-  "version"	: "0.0.0",
+  "name": "leaflet-tilelayer-counting",
+  "version": "1.0.0",
   "homepage": "https://github.com/FCOO/leaflet-tilelayer-counting",
-	"author": "Jesper Larsen jla@fcoo.dk",
-	"description": "package.json is only use for building the package. see bower.json for more info",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/FCOO/leaflet-tilelayer-counting.git"
-	},
+  "author": "Jesper Larsen jla@fcoo.dk",
+  "description": "package.json is only use for building the package. see bower.json for more info",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FCOO/leaflet-tilelayer-counting.git"
+  },
   "devDependencies": {
     "grunt-bower-concat": "~1.0.0",
     "grunt-continue": "~0.1.0",
